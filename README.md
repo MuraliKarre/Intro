@@ -8,4 +8,5 @@
 MuraliKarre/MuraliKarre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![vehicle_moving_animation](https://user-images.githubusercontent.com/37564618/146408790-6efced6b-4b42-4433-b470-f241e255f315.gif)
+
+![qHU95vY](https://user-images.githubusercontent.com/37564618/146538791-51657d42-0045-45e5-82b4-0d2cb5095b9a.gif)
